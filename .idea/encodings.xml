@@ -4,5 +4,7 @@
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_dubbo_client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_dubbo_service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_dubbo_v2_client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_dubbo_v2_service" charset="UTF-8" />
   </component>
 </project>
